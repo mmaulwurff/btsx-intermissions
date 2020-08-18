@@ -53,8 +53,8 @@ map MAP03 lookup "HUSTR_3"
 map MAP04 lookup "HUSTR_4"
 {
 	titlepatch = "CWILV03"
-	next = "MAP05C"
-	secretnext = "MAP05C"
+	next = "MAP05"
+	secretnext = "MAP05"
 	sky1 = "SKY2TALL"
 	cluster = 5
 	music = "$MUSIC_BETWEE"
@@ -62,7 +62,7 @@ map MAP04 lookup "HUSTR_4"
 	enterpic = "$INTMPROG"
 }
 
-map MAP05C lookup "HUSTR_5"
+map MAP05 lookup "HUSTR_5"
 {
 	titlepatch = "CWILV04"
 	next = "MAP06"
@@ -195,8 +195,22 @@ map MAP15 lookup "HUSTR_15"
 	enterpic = "$INTMPROG"
 }
 
+map MAP16 lookup "HUSTR_16"
+{
+	levelnum = 1600
+	titlepatch = "CWILV15"
+	next = "MAP17"
+	secretnext = "MAP17"
+	sky1 = "SKY2BTAL"
+	cluster = 7
+	music = "$MUSIC_DEAD2"
+	exitpic = "$INTM"
+	enterpic = "$INTMPROG"
+}
+
 map MAP16C lookup "HUSTR_16"
 {
+	levelnum = 16
 	titlepatch = "CWILV15"
 	next = "MAP17"
 	secretnext = "MAP17"
