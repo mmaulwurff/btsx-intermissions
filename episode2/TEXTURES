@@ -1,0 +1,135 @@
+texture INTABASE, 384, 6
+{
+	Patch ZZFRSD01,    0, -33 { rotate 90 }
+	Patch ZZFRSD01,  128, -33 { rotate 90 }
+	Patch ZZFRSD01,  256, -33 { rotate 90 }
+}
+
+texture INTAN01, 217, 6 { Patch INTABASE, -64, 0 }
+texture INTAN02, 217, 6 { Patch INTABASE, -63, 0 }
+texture INTAN03, 217, 6 { Patch INTABASE, -62, 0 }
+texture INTAN04, 217, 6 { Patch INTABASE, -61, 0 }
+texture INTAN05, 217, 6 { Patch INTABASE, -60, 0 }
+texture INTAN06, 217, 6 { Patch INTABASE, -59, 0 }
+texture INTAN07, 217, 6 { Patch INTABASE, -58, 0 }
+texture INTAN08, 217, 6 { Patch INTABASE, -57, 0 }
+texture INTAN09, 217, 6 { Patch INTABASE, -56, 0 }
+texture INTAN10, 217, 6 { Patch INTABASE, -55, 0 }
+
+texture INTAN11, 217, 6 { Patch INTABASE, -54, 0 }
+texture INTAN12, 217, 6 { Patch INTABASE, -53, 0 }
+texture INTAN13, 217, 6 { Patch INTABASE, -52, 0 }
+texture INTAN14, 217, 6 { Patch INTABASE, -51, 0 }
+texture INTAN15, 217, 6 { Patch INTABASE, -50, 0 }
+texture INTAN16, 217, 6 { Patch INTABASE, -49, 0 }
+texture INTAN17, 217, 6 { Patch INTABASE, -48, 0 }
+texture INTAN18, 217, 6 { Patch INTABASE, -47, 0 }
+texture INTAN19, 217, 6 { Patch INTABASE, -46, 0 }
+texture INTAN20, 217, 6 { Patch INTABASE, -45, 0 }
+
+texture INTAN21, 217, 6 { Patch INTABASE, -44, 0 }
+texture INTAN22, 217, 6 { Patch INTABASE, -43, 0 }
+texture INTAN23, 217, 6 { Patch INTABASE, -42, 0 }
+texture INTAN24, 217, 6 { Patch INTABASE, -41, 0 }
+texture INTAN25, 217, 6 { Patch INTABASE, -40, 0 }
+texture INTAN26, 217, 6 { Patch INTABASE, -39, 0 }
+texture INTAN27, 217, 6 { Patch INTABASE, -38, 0 }
+texture INTAN28, 217, 6 { Patch INTABASE, -37, 0 }
+texture INTAN29, 217, 6 { Patch INTABASE, -36, 0 }
+texture INTAN30, 217, 6 { Patch INTABASE, -35, 0 }
+
+texture INTAN31, 217, 6 { Patch INTABASE, -34, 0 }
+texture INTAN32, 217, 6 { Patch INTABASE, -33, 0 }
+texture INTAN33, 217, 6 { Patch INTABASE, -32, 0 }
+texture INTAN34, 217, 6 { Patch INTABASE, -31, 0 }
+texture INTAN35, 217, 6 { Patch INTABASE, -30, 0 }
+texture INTAN36, 217, 6 { Patch INTABASE, -29, 0 }
+texture INTAN37, 217, 6 { Patch INTABASE, -28, 0 }
+texture INTAN38, 217, 6 { Patch INTABASE, -27, 0 }
+texture INTAN39, 217, 6 { Patch INTABASE, -26, 0 }
+texture INTAN40, 217, 6 { Patch INTABASE, -25, 0 }
+
+texture INTAN41, 217, 6 { Patch INTABASE, -24, 0 }
+texture INTAN42, 217, 6 { Patch INTABASE, -23, 0 }
+texture INTAN43, 217, 6 { Patch INTABASE, -22, 0 }
+texture INTAN44, 217, 6 { Patch INTABASE, -21, 0 }
+texture INTAN45, 217, 6 { Patch INTABASE, -20, 0 }
+texture INTAN46, 217, 6 { Patch INTABASE, -19, 0 }
+texture INTAN47, 217, 6 { Patch INTABASE, -18, 0 }
+texture INTAN48, 217, 6 { Patch INTABASE, -17, 0 }
+texture INTAN49, 217, 6 { Patch INTABASE, -16, 0 }
+texture INTAN50, 217, 6 { Patch INTABASE, -15, 0 }
+
+texture INTAN51, 217, 6 { Patch INTABASE, -14, 0 }
+texture INTAN52, 217, 6 { Patch INTABASE, -13, 0 }
+texture INTAN53, 217, 6 { Patch INTABASE, -12, 0 }
+texture INTAN54, 217, 6 { Patch INTABASE, -11, 0 }
+texture INTAN55, 217, 6 { Patch INTABASE, -10, 0 }
+texture INTAN56, 217, 6 { Patch INTABASE,  -9, 0 }
+texture INTAN57, 217, 6 { Patch INTABASE,  -8, 0 }
+texture INTAN58, 217, 6 { Patch INTABASE,  -7, 0 }
+texture INTAN59, 217, 6 { Patch INTABASE,  -6, 0 }
+texture INTAN60, 217, 6 { Patch INTABASE,  -5, 0 }
+
+texture INTAN61, 217, 6 { Patch INTABASE,  -4, 0 }
+texture INTAN62, 217, 6 { Patch INTABASE,  -3, 0 }
+texture INTAN63, 217, 6 { Patch INTABASE,  -2, 0 }
+texture INTAN64, 217, 6 { Patch INTABASE,  -1, 0 }
+
+texture YOURL, 8, 6 { Patch STKEYS1, 0, 1 }
+
+texture INTSPLAT, 8, 6 { Patch STKEYS2, 0, 1 }
+
+graphic INTPANEL, 45, 61 {
+	Patch INTERPIC, -225, -98
+}
+
+graphic INTLIGHT, 8, 5 {
+	Patch STKEYS0, 0, 0 {
+		Translation Desaturate, 31
+	}
+}
+
+graphic INTWPR, 320, 200
+{
+	Patch INTERPIC, 0, 0
+	Patch INTPANEL, 225, 98
+	{
+		Rotate 180
+		Blend grey
+	}
+	Patch INTLIGHT, 228, 101
+	Patch INTLIGHT, 238, 101
+	Patch INTLIGHT, 248, 101
+	Patch INTLIGHT, 258, 101
+
+	Patch INTLIGHT, 228, 109 { Blend 100, 100, 100 } // hub
+	Patch INTLIGHT, 238, 109
+	Patch INTLIGHT, 248, 109
+	Patch INTLIGHT, 258, 109
+
+	Patch INTLIGHT, 228, 117
+	Patch INTLIGHT, 238, 117
+	Patch INTLIGHT, 248, 117 { Blend 100, 100, 100 } // hub
+	Patch INTLIGHT, 258, 117
+
+	Patch INTLIGHT, 228, 125
+	Patch INTLIGHT, 238, 125
+	Patch INTLIGHT, 248, 125
+	Patch STKEYS0,  258, 125 { Translation Desaturate, 20 } // secret
+
+	Patch INTLIGHT, 228, 133 { Blend 100, 100, 100 } // hub
+	Patch INTLIGHT, 238, 133
+	Patch INTLIGHT, 248, 133
+	Patch INTLIGHT, 258, 133
+
+	Patch INTLIGHT, 228, 141
+	Patch INTLIGHT, 238, 141
+	Patch INTLIGHT, 248, 141
+	Patch INTLIGHT, 258, 141 { Blend 100, 100, 100 } // hub
+
+	Patch INTLIGHT, 228, 149
+	Patch INTLIGHT, 238, 149
+	Patch INTLIGHT, 248, 149
+	Patch STKEYS0,  258, 149 { Blend magenta } // end
+}

@@ -1,0 +1,124 @@
+NoAutoStartMap
+Background INTWPR
+Splat STKEYS0
+Pointer YOURL YOURL
+
+/* INFO ON MAP LOCATION OFFSETS
+0 0 means top left. Start there. 
+-> = ++. Increase first value to go right
+V = ++. Increase second value to go down
+Limits are according to image resolution. 
+CAUTION!!! Doom1's intermission maps are 320x200, so anything with a different aspect ratio will screw up the pixel placement for the spots below!
+*/
+
+Spots
+{
+	MAP01 228 100
+	MAP02 238 100
+	MAP03 248 100
+	MAP04 258 100
+	
+	MAP05 228 108
+	MAP06 238 108
+	MAP07 248 108
+	MAP08 258 108
+	
+	MAP09 228 116
+	MAP10 238 116
+	MAP11 248 116
+	MAP12 258 116
+	
+	MAP13 228 124
+	MAP14 238 124
+	MAP15 248 124
+	MAP31 258 124
+	
+	MAP32 228 132
+	MAP16 238 132
+	MAP17 248 132
+	MAP18 258 132
+	
+	MAP19 228 140
+	MAP20 238 140
+	MAP21 248 140
+	MAP22 258 140
+	
+	MAP23 228 148
+	MAP24 238 148
+	MAP25 248 148
+}
+
+/* Scrolling animation for the intermission screen. Its the bottom warning tape scroller thingy in this case. It will be automatically drawn on top of the map screen, so no need to reserve transparent space on it to fit this animation. */
+Animation 56 194 1
+{
+	INTAN01
+	INTAN02
+	INTAN03
+	INTAN04
+	INTAN05
+	INTAN06
+	INTAN07
+	INTAN08
+	INTAN09
+	INTAN10
+	
+	INTAN11
+	INTAN12
+	INTAN13
+	INTAN14
+	INTAN15
+	INTAN16
+	INTAN17
+	INTAN18
+	INTAN19
+	INTAN20
+	
+	INTAN21
+	INTAN22
+	INTAN23
+	INTAN24
+	INTAN25
+	INTAN26
+	INTAN27
+	INTAN28
+	INTAN29
+	INTAN30
+	
+	INTAN31
+	INTAN32
+	INTAN33
+	INTAN34
+	INTAN35
+	INTAN36
+	INTAN37
+	INTAN38
+	INTAN39
+	INTAN40
+	
+	INTAN41
+	INTAN42
+	INTAN43
+	INTAN44
+	INTAN45
+	INTAN46
+	INTAN47
+	INTAN48
+	INTAN49
+	INTAN50
+	
+	INTAN51
+	INTAN52
+	INTAN53
+	INTAN54
+	INTAN55
+	INTAN56
+	INTAN57
+	INTAN58
+	INTAN59
+	INTAN60
+	
+	INTAN61
+	INTAN62
+	INTAN63
+	INTAN64
+}
