@@ -1,0 +1,11 @@
+# Ignore everything, but not directories:
+
+*
+!**/
+
+# Except the following file types:
+
+!.gitignore
+
+!**.txt
+!**.md
