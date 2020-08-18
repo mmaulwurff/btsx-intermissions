@@ -1,6 +1,6 @@
 # BTSX E2 Intermission Screen
 
-Intermission screen for [Back to Saturn X E2: Tower in the Fountain of Sparks](https://www.doomworld.com/forum/topic/69960-back-to-saturn-x-episode-2-is-out-of-beta-v101-aug-13-2020/)
+Intermission screen for [Back to Saturn X E2: Tower in the Fountain of Sparks](https://www.doomworld.com/forum/topic/69960-back-to-saturn-x-episode-2-is-out-of-beta-v101-aug-13-2020/) for GZDoom.
 
 ## Features
 

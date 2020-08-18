@@ -1,6 +1,6 @@
 # BTSX E1 Intermission Screen
 
-Intermission screen for [Back to Saturn X E1: Get Out Of My Stations](https://www.doomworld.com/vb/wads-mods/62529-back-to-saturn-x-e1-99i9-plus-new-unheard-midis-on-page-13/)
+Intermission screen for [Back to Saturn X E1: Get Out Of My Stations](https://www.doomworld.com/vb/wads-mods/62529-back-to-saturn-x-e1-99i9-plus-new-unheard-midis-on-page-13/) for GZDoom.
 
 ## Features
 
